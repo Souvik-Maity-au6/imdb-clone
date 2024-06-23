@@ -43,12 +43,12 @@ The backend is built using Node.js and Express.
 1. Navigate to the `back-end` directory:
 
    ```bash
-   cd backend
+   cd back-end
    ```
 
 2. Install dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 
 ### Running the Backend
@@ -73,23 +73,24 @@ The frontend is built using React and Create React App.
 1. Navigate to the `front-end` directory:
 
    ```bash
-   cd frontend
+   cd front-end
    ```
 
 2. Install dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 
 ### Running the Frontend
 
 1. Start the server:
    ```bash
-   npm start
+   ysrn start
    ```
    The frontend will run on `http://localhost:3000`.
 
 For questions, contact Souvik Maity at kingsouvik111@gmail.com.
 
 Happy coding!
+
 <a href="./IMDB Clone Problem (1) (1).pdf" class="image fit"><img src="./problem_statement.png" alt=""></a>
